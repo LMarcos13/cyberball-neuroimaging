@@ -1,0 +1,7 @@
+{
+  "numBlock":5,
+  "trialDuratio":3,
+  "restDuration":5,
+  "questionDuration":3,
+  "presentationDuration":3,
+}

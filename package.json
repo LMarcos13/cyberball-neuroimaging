@@ -1,0 +1,27 @@
+{
+  "name": "cyberball-app",
+  "productName": "Cyberball Neuroimaging",
+  "version": "1.0.0",
+  "description": "App for running the cyberball experiment in neuroimaging",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LMarcos13/cyberball-neuroimaging.git"
+  },
+  "keywords": [
+    "cyberball",
+    "fmri"
+  ],
+  "author": "Luis Marcos Vidal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LMarcos13/cyberball-neuroimaging/issues"
+  },
+  "homepage": "https://github.com/LMarcos13/cyberball-neuroimaging#readme",
+  "dependencies": {
+    "electron": "^27.0.3"
+  }
+}
